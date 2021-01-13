@@ -2,7 +2,8 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>ACCOUNT_SUMMARY</members>
-        <members>ADD_DESTINATION_ORG</members>
+        <members>ADD</members>
+        <members>ADD_ENVIRONMENT_STEPS</members>
         <members>HCM_AssessmentExit</members>
         <name>CustomLabel</name>
     </types>

@@ -49,6 +49,14 @@
         <value>Add Destination Org</value>
     </labels>
     <labels>
+        <fullName>ADD_ENVIRONMENT_STEPS</fullName>
+        <categories>Copado</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ADD_ENVIRONMENT_STEPS</shortDescription>
+        <value>You can add Environments and Branches to the flow by making use of the Deployment Flow Steps related list below.</value>
+    </labels>
+    <labels>
         <fullName>ADD_HEADER</fullName>
         <categories>Copado</categories>
         <language>en_US</language>
