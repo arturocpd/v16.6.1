@@ -41,6 +41,14 @@
         <value>Add Authentication</value>
     </labels>
     <labels>
+        <fullName>ADD_DESTINATION_ORG</fullName>
+        <categories>Copado</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ADD DESTINATION ORG</shortDescription>
+        <value>Add Destination Org</value>
+    </labels>
+    <labels>
         <fullName>ADD_HEADER</fullName>
         <categories>Copado</categories>
         <language>en_US</language>
