@@ -6,7 +6,7 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>ACCOUNT SUMMARY</shortDescription>
-        <value>Account Summary</value>
+        <value>https://Dev1fakeurl.html</value>
     </labels>
     <labels>
         <fullName>ACTION_COLUMN_HEADER</fullName>
@@ -41,6 +41,14 @@
         <value>Add Authentication</value>
     </labels>
     <labels>
+        <fullName>ADD_DESTINATION_ORG</fullName>
+        <categories>Copado</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ADD DESTINATION ORG</shortDescription>
+        <value>Add Destination Org</value>
+    </labels>
+    <labels>
         <fullName>ADD_HEADER</fullName>
         <categories>Copado</categories>
         <language>en_US</language>
@@ -70,5 +78,12 @@
         <protected>true</protected>
         <shortDescription>DEPLOYMENT NEW</shortDescription>
         <value>New Deployment</value>
+    </labels>
+    <labels>
+        <fullName>HCM_AssessmentExit</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>HCM_AssessmentExit</shortDescription>
+        <value>This is the value of HCM_AssessmentExit</value>
     </labels>
 </CustomLabels>
